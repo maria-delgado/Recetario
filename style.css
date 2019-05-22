@@ -1,0 +1,47 @@
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.espanol{
+text-decoration:none;
+font-weight: 600;
+font-size: 30px;
+font-family: cursive;    
+color: #fff  ;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background: url(choco.jpg);
+border-color: #2E4053;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+   
+}
+
+.ingles{
+text-decoration:none;
+font-weight: 600;
+font-size: 30px;
+font-family: cursive;
+color: #000  ;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background: url(chocoblan.jpg);
+border-color: #2E4053;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+    
+}
+
+
+
+

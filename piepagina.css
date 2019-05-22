@@ -1,0 +1,27 @@
+
+.container-footer{
+    margin: 0;
+    width: 100%;
+    background: #101010;
+    justify-content:flex-start;
+    display: flex;
+    padding: 10px;
+}
+
+.copyright{
+    color: #C7C7C7;   
+}
+
+.copyright a{
+    color: #000; 
+    font-weight: bold;
+}
+
+.informacion a{
+    text-decoration: none;
+    color: white;
+}
+
+.informacion a:hover{
+    text-decoration: underline;
+}
